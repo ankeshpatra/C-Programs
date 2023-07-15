@@ -8,6 +8,6 @@ int main()
     scanf("%d",&l);
     printf("enter the breadth of the cardboard:");
     scanf("%d",&b);
-    (l==b)? printf("the cardboard is rectangle in shape !"):printf("the cardboard is square in shape !");
+    (l==b)?printf("the cardboard is square in shape !"):printf("the cardboard is rectangle in shape !");
     return 0;
 }
