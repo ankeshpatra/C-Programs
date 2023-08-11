@@ -1,4 +1,4 @@
-/*Program to input selling and cost price from the user and calculating the profit (assuming only profit)*/
+/*Program to input selling and cost price from the user and calculate the profit (assuming only yield)*/
 
 #include <stdio.h>
 int main()
