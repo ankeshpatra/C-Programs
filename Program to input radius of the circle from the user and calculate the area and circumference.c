@@ -1,4 +1,4 @@
-/*Program to input radius of the circle from the user and calculate the area and circumference(only upto 2 decimal) */
+/*Program to input the radius of the circle from the user and calculate the area and circumference(only upto 2 decimals) */
 
 #include <stdio.h>
 int main()
