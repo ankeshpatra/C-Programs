@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    float rate,pa;
+    float rate, pa;
     int t;
     printf("enter the principle amount:");
     scanf("%f",&pa);
