@@ -1,4 +1,4 @@
-//Program to input the starting and an ending number from the user and printing all the numbers which are multiple of either 3 or 5
+//Program to input the starting and ending number from the user and print all the numbers which are multiple of either 3 or 5
 
 #include <stdio.h>
 int main()
