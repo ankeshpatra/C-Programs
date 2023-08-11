@@ -1,4 +1,4 @@
-/*Program to input the base and height of a right angled triangle from the user and calculating its area*/
+/*Program to input the base and height of a right-angled triangle from the user and calculate its area*/
 
 #include <stdio.h>
 int main()
