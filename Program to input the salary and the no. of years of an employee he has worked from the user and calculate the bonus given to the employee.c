@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    int salary,years,bonus;
+    int salary, years, bonus;
     printf("enter the salary of the employee:");
     scanf("%d",&salary);
     printf("enter the number of years the employee worked:");
