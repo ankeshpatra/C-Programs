@@ -1,4 +1,4 @@
-//Program to input a number from the user and print multiplication table of that number
+//Program to input a number from the user and print the multiplication table of that number
 
 #include <stdio.h>
 int main()
