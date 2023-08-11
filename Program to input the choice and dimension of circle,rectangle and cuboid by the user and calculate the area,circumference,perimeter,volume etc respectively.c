@@ -1,4 +1,4 @@
-//Program to input the choice and dimension of circle,rectangle and cuboid by the user and calculate the area,circumference,perimeter,volume etc respectively  
+//Program to input the choice and dimension of circle, rectangle, and cuboid by the user and calculate the area, circumference, perimeter, volume, etc respectively  
 
 #include <stdio.h>
 int main()
