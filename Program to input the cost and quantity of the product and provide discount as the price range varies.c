@@ -1,4 +1,4 @@
-/*Program to input the cost and quantity of the product and provide discount as the price range varies*/
+/*Program to input the cost and quantity of the product and provide a discount as the price range varies*/
 
 #include <stdio.h>
 int main()
