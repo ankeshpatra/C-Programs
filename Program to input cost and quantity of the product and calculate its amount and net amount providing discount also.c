@@ -1,4 +1,4 @@
-/*Program to input cost and quantity of the product and calculating its amount and net amount providing discount also*/
+/*Program to input cost and quantity of the product and calculate its amount and net amount providing discount also*/
 
 #include <stdio.h>
 int main()
