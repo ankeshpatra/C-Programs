@@ -1,4 +1,4 @@
-//Program to input the length and breadth of a rectangle and calculate the cost for fencing the field
+//Program to input the length and breadth of a rectangle and calculate the cost of fencing the field
 
 #include <stdio.h>
 int main()
