@@ -1,4 +1,4 @@
-/* Program to input three sides of a triangle and check whether it is a equilateral triangle or not */
+/* Program to input three sides of a triangle and check whether it is an equilateral triangle or not */
 
 #include <stdio.h>
 int main()
