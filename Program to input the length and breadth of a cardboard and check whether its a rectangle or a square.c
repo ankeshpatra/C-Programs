@@ -1,4 +1,4 @@
-/* Program to input the length and breadth of a cardboard and check whether its a rectangle or a square */
+/* Program to input the length and breadth of cardboard and check whether it's a rectangle or a square */
 
 #include <stdio.h>
 int main()
