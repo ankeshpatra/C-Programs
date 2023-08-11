@@ -1,4 +1,4 @@
-/* Program to Input the temperature from the user and convert it into Celsius to Fahrenheit or vice versa according to the user choice */
+/* Program to Input the temperature from the user and convert it into Celsius to Fahrenheit or vice versa according to the user's choice */
 
 #include <stdio.h>
 int main()
