@@ -1,4 +1,4 @@
-//Program to input a character from the user and check is it a vowel or not
+//Program to input a character from the user and check if is it a vowel or not
 
 #include <stdio.h>
 int main()
