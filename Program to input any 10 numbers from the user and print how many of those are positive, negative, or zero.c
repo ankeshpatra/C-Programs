@@ -1,4 +1,4 @@
-//Program to input any 10 numbers from the user and print how many of those are positive,negative or zero
+//Program to input any 10 numbers from the user and print how many of those are positive, negative, or zero
 
 #include <stdio.h>
 int main()
