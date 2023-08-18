@@ -1,4 +1,4 @@
-//Program to find the roots of quadratic equation
+//Program to input the coefficients of a quadratic equation and print the value and nature of the roots
 
 #include <stdio.h>
 #include <math.h>
